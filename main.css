@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+header{
+  background-image: url("C:\xampp\htdocs\event\istockphoto-1366076851-170667a.jpg");
+  height: 100vh;
+}
+.couleur{
+  color:black;
+}
